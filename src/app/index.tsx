@@ -12,7 +12,7 @@ export default function Home() {
         React Native Rocks
       </Text>
 
-      <Text className="mt-4 text-5xl font-black text-white">
+      <Text className="mt-6 text-5xl font-black text-white">
         P-Watch
       </Text>
     </View>
